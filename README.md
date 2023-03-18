@@ -1,3 +1,3 @@
-REMOTE
+LOCAL 
 
-This is a repo for Git/GitHub quest 5 : Merge & Conflicts
+This is a repo for Git/GitHub 5 : Merge & Conflicts
